@@ -1,0 +1,44 @@
+Lenguaje: C++
+Aprobados: 0 | Reprobados: 0
+Mayor general: 0 | Menor general: 0
+Listado:
+﻿HANNA AIDE ACOSTA SOLIS | Promedio: 0 | Estado: Reprobado
+HUGO ALEXANDER ANDRADE SANCHEZ | Promedio: 0 | Estado: Reprobado
+JOSUE ALEXANDER ATIENCIA CHERRES | Promedio: 0 | Estado: Reprobado
+DIEGO SEBASTIAN BALAREZO PEREZ | Promedio: 0 | Estado: Reprobado
+JOB GABRIEL BARRIONUEVO MONTESDEOCA | Promedio: 0 | Estado: Reprobado
+JUAN MANUEL BEDOYA MAZO | Promedio: 0 | Estado: Reprobado
+JORDAN SAMUEL BRAVO LOPEZ | Promedio: 0 | Estado: Reprobado
+PAULO ALESSANDRO CAJIAO VALDIVIESO | Promedio: 0 | Estado: Reprobado
+BRANDON ISRAEL CALVOPIÑA HERRERA | Promedio: 0 | Estado: Reprobado
+KATHERINE NICOL CASTELO BERRONES | Promedio: 0 | Estado: Reprobado
+VICTOR MANUEL CHACHA CHANGO | Promedio: 0 | Estado: Reprobado
+DIEGO STEED CHILUIZA QUISHPE | Promedio: 0 | Estado: Reprobado
+DANIEL SEBASTIAN DOMINGUEZ LESCANO | Promedio: 0 | Estado: Reprobado
+ALAN ANDERSON FREIRE AREBALO | Promedio: 0 | Estado: Reprobado
+ABISAG LISENIA GUALLE AUCANSHALA | Promedio: 0 | Estado: Reprobado
+HAMILTON ALEXANDER GUAMAN CHANAHUANO | Promedio: 0 | Estado: Reprobado
+EDWIN SEBASTIAN GUANGA ALTAMIRANO | Promedio: 0 | Estado: Reprobado
+KARLA LEONELA GUANOTOA ESCOBAR | Promedio: 0 | Estado: Reprobado
+EDISON PAUL LANDETA TAPIA | Promedio: 0 | Estado: Reprobado
+KAREN ARACELY LARA BALSECA | Promedio: 0 | Estado: Reprobado
+JHON ALEJANDRO LOOR VELEZ | Promedio: 0 | Estado: Reprobado
+WASHINGTON STEVEN LOPEZ SANCHEZ | Promedio: 0 | Estado: Reprobado
+ALAN IMANOL MIRANDA GARCES | Promedio: 0 | Estado: Reprobado
+JHAIR ALEXANDER MONAR PARCO | Promedio: 0 | Estado: Reprobado
+MATEO ALEXANDER MUYULEMA MOYOLEMA | Promedio: 0 | Estado: Reprobado
+ANTONELLA NICOLE NARVAEZ GAVILANES | Promedio: 0 | Estado: Reprobado
+BRYAN SEBASTIAN NUÑEZ ESPIN | Promedio: 0 | Estado: Reprobado
+MARIO DAVID PILCO FLORES | Promedio: 0 | Estado: Reprobado
+KATHERINE SOLEDAD POMAQUERO CHANGO | Promedio: 0 | Estado: Reprobado
+GINA ANAHI QUEVEDO AJON | Promedio: 0 | Estado: Reprobado
+MATIAS SEBASTIAN RIVADENEYRA ULLOA | Promedio: 0 | Estado: Reprobado
+CAROLINA ESTEFANIA ROCHA ROCHA | Promedio: 0 | Estado: Reprobado
+ISAAC ADRIAN SANCHEZ LEMA | Promedio: 0 | Estado: Reprobado
+JOSEPH ANDRE SEGOVIA GARCIA | Promedio: 0 | Estado: Reprobado
+JOAN SEBASTIAN SUPE GARCES | Promedio: 0 | Estado: Reprobado
+KEVIN MATIAS TOAPANTA IZA | Promedio: 0 | Estado: Reprobado
+KEVIN ALEXANDER VERDESOTO AZOGUE | Promedio: 0 | Estado: Reprobado
+JOSUE ALEJANDRO VILLACRES TOALOMBO | Promedio: 0 | Estado: Reprobado
+MAYDELIN SHANTAL VITERI CAMINO | Promedio: 0 | Estado: Reprobado
+------------------------------
